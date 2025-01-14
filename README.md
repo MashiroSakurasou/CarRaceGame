@@ -5,7 +5,6 @@ This program implements a simple interactive car game simulator using Java Swing
 
 
 Name: Tiancheng Zhou, Zhiyuan Xiao
-School Email: zxiao17@u.rochester.edu, tzhou29@u.rochester.edu
 The date last modified : December 2nd
 
 Features
